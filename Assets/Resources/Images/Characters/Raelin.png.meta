@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: ad5227960be7d6e4097849bb71af3e51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6643001139308345057
+    second: Mobile - Love Nikki - Bobo_0
+  - first:
+      213: 7210448415706649634
+    second: surprised
+  - first:
+      213: -2284166539360412799
+    second: Mobile - Love Nikki - Bobo_2
+  - first:
+      213: -7454202829547516235
+    second: podejrzliwa
+  - first:
+      213: -7728481850374123432
+    second: Mobile - Love Nikki - Bobo_4
+  - first:
+      213: -1532865529875253277
+    second: Mobile - Love Nikki - Bobo_5
+  - first:
+      213: -4336160945285773246
+    second: Mobile - Love Nikki - Bobo_6
+  - first:
+      213: -2866000481773998443
+    second: Mobile - Love Nikki - Bobo_7
+  - first:
+      213: 1314274028373594354
+    second: Mobile - Love Nikki - Bobo_8
+  - first:
+      213: 2826611832116138060
+    second: angry
+  - first:
+      213: 164185403437598791
+    second: Mobile - Love Nikki - Bobo_10
+  - first:
+      213: -7558531111758366595
+    second: Mobile - Love Nikki - Bobo_11
+  - first:
+      213: -5776662719602823695
+    second: Mobile - Love Nikki - Bobo_12
+  - first:
+      213: 8949425474156503118
+    second: Mobile - Love Nikki - Bobo_13
+  - first:
+      213: -2969133193590724519
+    second: Mobile - Love Nikki - Bobo_14
+  - first:
+      213: 8814242287891935911
+    second: Mobile - Love Nikki - Bobo_15
+  - first:
+      213: 1965310708285175239
+    second: Mobile - Love Nikki - Bobo_16
+  - first:
+      213: 3197668911065509252
+    second: Mobile - Love Nikki - Bobo_17
+  - first:
+      213: -5539722430406838161
+    second: Mobile - Love Nikki - Bobo_18
+  - first:
+      213: 7576465053790005183
+    second: Mobile - Love Nikki - Bobo_19
+  - first:
+      213: -2566045822006815101
+    second: Mobile - Love Nikki - Bobo_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 514
+        height: 1396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b5f5fefa647714abcee5e8a63c9c90
+      internalID: -6643001139308345057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1267
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004676d35094b54a9356ae06d9a9111
+      internalID: 7210448415706649634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1275
+        width: 148
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23404674116ea0f43b70fe9338a1ace0
+      internalID: -2284166539360412799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podejrzliwa
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1136
+        width: 149
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e657c3373418a64fa3b0a07d2b61b47
+      internalID: -7454202829547516235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1142
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfedd11406e43049b50e68c41005bfc
+      internalID: -7728481850374123432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 993
+        width: 147
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf097ca43fe79d46aa162e2f6354182
+      internalID: -1532865529875253277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_6
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 995
+        width: 148
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16f1c26300cf4f4ba61402dbdd82b29
+      internalID: -4336160945285773246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 854
+        width: 147
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55fa1797906704bb7b1b0db88eac50
+      internalID: -2866000481773998443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 805
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be97f41a1bffd42999eb6aa3c60a4a
+      internalID: 1314274028373594354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 702
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee730ce42c12d439fc2988a131e7c2
+      internalID: 2826611832116138060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 831
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869ca7aecfd67747b73e666bee13a81
+      internalID: 164185403437598791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 561
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e70ea909e3d2448942ee6e1de2eaf
+      internalID: -7558531111758366595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 674
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd94cc286e417478b786591fc3998b
+      internalID: -5776662719602823695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 420
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225731aa777d0646863bcc4aed99801
+      internalID: 8949425474156503118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 523
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e00687ff46fbe499302c22a10567f0
+      internalID: -2969133193590724519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 264
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc09e59ac5aea04a8b14ecaec1ac36a
+      internalID: 8814242287891935911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 369
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3bf424566172428ce385879cc3e0d
+      internalID: 1965310708285175239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 108
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cdd0f74ffe3b943a594428ae8b9953
+      internalID: 3197668911065509252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_18
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 213
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec9ee3fef590e4cbe71dcadd602846
+      internalID: -5539722430406838161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_19
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 213
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d04909c6692fe4a9761817ac89df7e
+      internalID: 7576465053790005183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Love Nikki - Bobo_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 57
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302252cfe9bcb44c960ec5b37f35eb2
+      internalID: -2566045822006815101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: db0f23fa04e2aba4888ea7e80c3563f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

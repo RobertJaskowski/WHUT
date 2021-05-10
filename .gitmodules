@@ -1,0 +1,3 @@
+[submodule "Assets/com.inspiredmedia.visual-novel-package"]
+	path = Assets/com.inspiredmedia.visual-novel-package
+	url = git@github.com:RobertJaskowski/com.inspiredmedia.visual-novel-package.git
